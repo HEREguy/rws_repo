@@ -1,0 +1,11 @@
+[project]
+name = "my_pdm_package"
+version = "0.1.0"
+description = "Default template for PDM package"
+
+dependencies = []
+requires-python = "==3.13.*"
+readme = "README.md"
+
+[tool.pdm]
+distribution = false
