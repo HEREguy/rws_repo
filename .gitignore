@@ -5,3 +5,6 @@
 
 # pdm
 .pdm-python
+
+# python
+__pycache__
