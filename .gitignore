@@ -17,3 +17,6 @@ dbt.log
 # terraform
 dev_project/deployment/terraform.tfstate.backup
 dev_project/deployment/.terraform.lock.hcl
+
+# cdk
+cdk.context.json
