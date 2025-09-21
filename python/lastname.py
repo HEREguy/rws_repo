@@ -1,3 +1,3 @@
-import surname
+from surname import surname
 
-surname.surname("Mike")
+surname("Mike")

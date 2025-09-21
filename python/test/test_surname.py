@@ -1,7 +1,7 @@
 import unittest
 from io import StringIO
 import sys
-from surname import surname
+from ..surname import surname
 
 class TestSurname(unittest.TestCase):
     def setUp(self):
